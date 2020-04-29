@@ -1,1 +1,1 @@
-# simple_database_using_python
+# simple_database_using_sqlite3
